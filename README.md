@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou Marcelo Durães Emerick  
 
 **Analista de Suporte de TI | Especialista em Sistemas de Gestão e Fiscais**  
-**Tecnologias:** Firebird | MySQL | Python | JavaScript | HTML | CSS  
-**Trabalho em home office**  
+**Tecnologias:** Firebird | MySQL | Python | JavaScript | HTML | CSS   
 **Baixista e fã de rock**  
 
 ### 🛠️ Habilidades  
